@@ -1,0 +1,51 @@
+/* General Reset */
+body, h1, h2, p, ul, ol, li, footer {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f9;
+  color: #333;
+}
+
+/* Header */
+header {
+  background: #6c63ff;
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+/* Main Content */
+main {
+  padding: 2rem;
+}
+
+/* Section Styling */
+section {
+  margin-bottom: 2rem;
+}
+
+h2 {
+  color: #6c63ff;
+  margin-bottom: 1rem;
+}
+
+p, ul, ol {
+  margin-bottom: 1rem;
+}
+
+/* Footer */
+footer {
+  background: #333;
+  color: white;
+  text-align: center;
+  padding: 1rem 0;
+}
